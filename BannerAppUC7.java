@@ -1,4 +1,3 @@
-public class OOPSBannerApp {
 
     /**
      * Inner Static Class to encapsulate character and its banner pattern.
